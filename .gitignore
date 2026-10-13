@@ -1,0 +1,42 @@
+# Binaries
+Porthole
+WebSocketUploader
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Backups
+*.backup
+
+# Test binaries
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Downloads directory (uploaded files)
+downloads/
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Go workspace file
+go.work
+
+# AI
+.claude/
+CLAUDE.md
+.serena
+
+Porthole
